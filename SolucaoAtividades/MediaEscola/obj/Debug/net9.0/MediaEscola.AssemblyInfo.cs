@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MediaEscola")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c461f0cf7b48f1f3a7161f3dc167b67368941794")]
 [assembly: System.Reflection.AssemblyProductAttribute("MediaEscola")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MediaEscola")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

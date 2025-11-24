@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\professor.cetafest\\Documents\\MeusCodigos\\SolucaoAtividades\\MediaEscola\\MediaEscola.csproj": {}
+    "C:\\Users\\professor.cetafest\\Documents\\GitHub\\senaiatividadesalunos\\SolucaoAtividades\\MediaEscola\\MediaEscola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\professor.cetafest\\Documents\\MeusCodigos\\SolucaoAtividades\\MediaEscola\\MediaEscola.csproj": {
+    "C:\\Users\\professor.cetafest\\Documents\\GitHub\\senaiatividadesalunos\\SolucaoAtividades\\MediaEscola\\MediaEscola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\professor.cetafest\\Documents\\MeusCodigos\\SolucaoAtividades\\MediaEscola\\MediaEscola.csproj",
+        "projectUniqueName": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\senaiatividadesalunos\\SolucaoAtividades\\MediaEscola\\MediaEscola.csproj",
         "projectName": "MediaEscola",
-        "projectPath": "C:\\Users\\professor.cetafest\\Documents\\MeusCodigos\\SolucaoAtividades\\MediaEscola\\MediaEscola.csproj",
+        "projectPath": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\senaiatividadesalunos\\SolucaoAtividades\\MediaEscola\\MediaEscola.csproj",
         "packagesPath": "C:\\Users\\professor.cetafest\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\professor.cetafest\\Documents\\MeusCodigos\\SolucaoAtividades\\MediaEscola\\obj\\",
+        "outputPath": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\senaiatividadesalunos\\SolucaoAtividades\\MediaEscola\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

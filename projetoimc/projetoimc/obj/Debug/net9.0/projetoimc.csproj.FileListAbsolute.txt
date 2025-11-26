@@ -1,0 +1,14 @@
+C:\Users\professor.cetafest\Documents\MeusCodigos\projetoimc\projetoimc\bin\Debug\net9.0\projetoimc.exe
+C:\Users\professor.cetafest\Documents\MeusCodigos\projetoimc\projetoimc\bin\Debug\net9.0\projetoimc.deps.json
+C:\Users\professor.cetafest\Documents\MeusCodigos\projetoimc\projetoimc\bin\Debug\net9.0\projetoimc.runtimeconfig.json
+C:\Users\professor.cetafest\Documents\MeusCodigos\projetoimc\projetoimc\bin\Debug\net9.0\projetoimc.dll
+C:\Users\professor.cetafest\Documents\MeusCodigos\projetoimc\projetoimc\bin\Debug\net9.0\projetoimc.pdb
+C:\Users\professor.cetafest\Documents\MeusCodigos\projetoimc\projetoimc\obj\Debug\net9.0\projetoimc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\professor.cetafest\Documents\MeusCodigos\projetoimc\projetoimc\obj\Debug\net9.0\projetoimc.AssemblyInfoInputs.cache
+C:\Users\professor.cetafest\Documents\MeusCodigos\projetoimc\projetoimc\obj\Debug\net9.0\projetoimc.AssemblyInfo.cs
+C:\Users\professor.cetafest\Documents\MeusCodigos\projetoimc\projetoimc\obj\Debug\net9.0\projetoimc.csproj.CoreCompileInputs.cache
+C:\Users\professor.cetafest\Documents\MeusCodigos\projetoimc\projetoimc\obj\Debug\net9.0\projetoimc.dll
+C:\Users\professor.cetafest\Documents\MeusCodigos\projetoimc\projetoimc\obj\Debug\net9.0\refint\projetoimc.dll
+C:\Users\professor.cetafest\Documents\MeusCodigos\projetoimc\projetoimc\obj\Debug\net9.0\projetoimc.pdb
+C:\Users\professor.cetafest\Documents\MeusCodigos\projetoimc\projetoimc\obj\Debug\net9.0\projetoimc.genruntimeconfig.cache
+C:\Users\professor.cetafest\Documents\MeusCodigos\projetoimc\projetoimc\obj\Debug\net9.0\ref\projetoimc.dll

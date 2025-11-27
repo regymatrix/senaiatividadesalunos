@@ -16,3 +16,5 @@ packages/
 *.log
 SolucaoAtividades/.vs/SolucaoAtividades/CopilotIndices/17.14.670.39694/SemanticSymbols.db
 SolucaoAtividades/.vs/SolucaoAtividades/CopilotIndices/17.14.670.39694/CodeChunks.db
+/SolucaoAtividades/MediaEscola/obj
+/SolucaoAtividades/MediaEscola/bin

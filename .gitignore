@@ -1,27 +1,16 @@
-
-SolucaoAtividades/.vs/SolucaoAtividades/FileContentIndex/58f0dc56-cfd7-4351-8957-31e1f147b028.vsidx
-SolucaoAtividades/.vs/SolucaoAtividades/FileContentIndex/7ad7d13c-f4ff-4494-a953-80bb09ee9c16.vsidx
-SolucaoAtividades/.vs/SolucaoAtividades/FileContentIndex/e4685741-e3ad-4110-89ae-8277d74bc0b7.vsidx
-SolucaoAtividades/MediaEscola/obj/Debug/net9.0/MediaEscola.AssemblyInfo.cs
-SolucaoAtividades/MediaEscola/obj/Debug/net9.0/MediaEscola.AssemblyInfoInputs.cache
-SolucaoAtividades/MediaEscola/obj/Debug/net9.0/MediaEscola.assets.cache
-SolucaoAtividades/MediaEscola/obj/Debug/net9.0/MediaEscola.GeneratedMSBuildEditorConfig.editorconfig
-SolucaoAtividades/MediaEscola/obj/MediaEscola.csproj.nuget.dgspec.json
-SolucaoAtividades/MediaEscola/obj/project.assets.json
-SolucaoAtividades/MediaEscola/obj/project.nuget.cache
-SolucaoAtividades/.vs/SolucaoAtividades/FileContentIndex/7ad7d13c-f4ff-4494-a953-80bb09ee9c16.vsidx
-SolucaoAtividades/MediaEscola/obj/Debug/net9.0/MediaEscola.AssemblyInfo.cs
-SolucaoAtividades/MediaEscola/obj/Debug/net9.0/MediaEscola.AssemblyInfoInputs.cache
-SolucaoAtividades/MediaEscola/obj/Debug/net9.0/MediaEscola.assets.cache
-SolucaoAtividades/MediaEscola/obj/Debug/net9.0/MediaEscola.GeneratedMSBuildEditorConfig.editorconfig
-SolucaoAtividades/MediaEscola/obj/MediaEscola.csproj.nuget.dgspec.json
-SolucaoAtividades/MediaEscola/obj/project.assets.json
-SolucaoAtividades/MediaEscola/obj/project.nuget.cache
-SolucaoAtividades/.vs/SolucaoAtividades/FileContentIndex/7ad7d13c-f4ff-4494-a953-80bb09ee9c16.vsidx
-SolucaoAtividades/MediaEscola/obj/Debug/net9.0/MediaEscola.AssemblyInfo.cs
-SolucaoAtividades/MediaEscola/obj/Debug/net9.0/MediaEscola.AssemblyInfoInputs.cache
-SolucaoAtividades/MediaEscola/obj/Debug/net9.0/MediaEscola.assets.cache
-SolucaoAtividades/MediaEscola/obj/Debug/net9.0/MediaEscola.GeneratedMSBuildEditorConfig.editorconfig
-SolucaoAtividades/MediaEscola/obj/MediaEscola.csproj.nuget.dgspec.json
-SolucaoAtividades/MediaEscola/obj/project.assets.json
-SolucaoAtividades/MediaEscola/obj/project.nuget.cache
+# Pastas de saída de build (binários)
+[Bb]in/
+[Oo]bj/
+# Arquivos de usuário do Visual Studio
+*.suo
+*.user
+*.useros
+# Arquivo de cache de extensão do VS (o que inclui .vsixd)
+*.vsix
+*.vsixd
+# Pasta de usuário do Visual Studio (importante!)
+.vs/
+# Pacotes NuGet
+packages/
+# Logs
+*.log
